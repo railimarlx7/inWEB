@@ -1,0 +1,9 @@
+core\BaseClass.class
+core\PropertiesReader.class
+pageObjects\LoginPage.class
+pageObjects\FuncionariosPage.class
+pageObjects\NovoFuncionarioPage.class
+core\Log.class
+core\DriveFactory.class
+inmetrics\resources\VarsNovoUsuario.class
+pageObjects\CadastroPage.class

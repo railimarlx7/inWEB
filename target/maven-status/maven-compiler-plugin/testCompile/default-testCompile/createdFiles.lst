@@ -1,0 +1,4 @@
+inmetrics\runner\Runner.class
+stepdefinition\FuncionarioSteps.class
+stepdefinition\LoginSteps.class
+stepdefinition\CadastroSteps.class
