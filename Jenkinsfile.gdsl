@@ -4,6 +4,9 @@ pipeline {
     stages {
          stage('Test') {
             steps {
+            	script{
+            	bat 'mvn clean test -Dtest=Runner -Dcucumber.options="--tags @all --plugin pretty" allure:serve'
+            	}
                 echo 'Testing..'
             }
         }
