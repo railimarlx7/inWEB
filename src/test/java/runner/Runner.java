@@ -1,4 +1,4 @@
-package inmetrics.runner;
+package runner;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
